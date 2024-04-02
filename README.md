@@ -1,6 +1,6 @@
-to-do-list-crud-api
+to-do-list is a CRUD API Project
 
-Framework .NET 8.0
-EntityFramework
-Postgres
-Docker
+| Framework .NET 8.0
+| EntityFramework
+| Postgres
+| Docker
