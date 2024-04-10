@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "to-do-list-crud-api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:57446;http://localhost:57447"
+    }
+  }
+}
